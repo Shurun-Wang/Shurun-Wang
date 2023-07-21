@@ -27,7 +27,7 @@ I'm a Ph.D. candidate in School of Electrical Engineering and Automation at Hefe
 
 ## Contact Me
 
-- Email: wangsr@mail.hfut.edu.cn
+- Email: wangsr@mail.hfut.edu.cn; s.wang.rp@juntendo.ac.jp
 
 Feel free to explore my repositories and get in touch if you have any questions or collaborations!
 
