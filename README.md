@@ -2,6 +2,10 @@
 
 I'm a Ph.D. candidate in School of Electrical Engineering and Automation at Hefei University of Technology, and I'm now a visiting student in Faculty of Health Data Science at Juntendo University. Welcome to my GitHub page!
 
+There are two reasons why we open-sourced our codes: One is that we have benefited from the open-source codes of those great individuals, so we hope our codes can help more people. The other reason is to allow more people to understand our valuable work more clearly through the codes.
+
+If these codes are useful to you, please cite our work and share it with more people. Thank you very much!
+
 ## Research Interests
 
 - Physiological signal analysis
