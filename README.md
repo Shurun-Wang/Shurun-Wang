@@ -8,12 +8,8 @@ If these codes are useful to you, please cite our work and share it with more pe
 
 ## Research Interests
 
-- Physiological signal analysis
-- Human-exoskeleton interaction
-- Brain function connectivity analysis
-- Deep learning menthods
-- Reinforcement learning methods
-- Control theory methods
+- Applications: Physiological signal analysis; Human-exoskeleton interaction; Brain function connectivity analysis
+- Algorithms: Deep learning menthods; Reinforcement learning methods; Control theory methods
   
 ## Education
 
@@ -30,7 +26,8 @@ If these codes are useful to you, please cite our work and share it with more pe
 
 ## Skills
 
-- Programming languages: Python/Matlab
+- Programming languages: Python/Matlab/C
+- Engineering: PLC
 
 ## Contact Me
 
