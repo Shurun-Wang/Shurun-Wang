@@ -10,8 +10,11 @@ If these codes are useful to you, please cite our work and share it with more pe
 
 - Physiological signal analysis
 - Human-exoskeleton interaction
-- Deep learning methods
-
+- Brain function connectivity analysis
+- Deep learning menthods
+- Reinforcement learning methods
+- Control theory methods
+  
 ## Education
 
 - Ph.D. in School of Electrical Engineering and Automation, Hefei University of Technology, 2019.09-2024.06
