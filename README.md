@@ -13,8 +13,8 @@ If these codes are useful to you, please cite our work and share it with more pe
   
 ## Education
 
-- Ph.D. in School of Electrical Engineering and Automation, Hefei University of Technology, 2019.09-2024.06
-- Ph.D. in Faculty of Health Data Science, Juntendo University, 2023.04-2024.03 (Visiting Student)
+- Ph.D. in School of Electrical Engineering and Automation, Hefei University of Technology, 2019.09-Present
+- Ph.D. in Faculty of Health Data Science, Juntendo University, 2023.04-Present (Visiting Student)
 - M.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, 2016.09-2019.06
 - B.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, 2012.06-2016.06
 
