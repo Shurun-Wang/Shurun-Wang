@@ -1,6 +1,6 @@
 ### Hi there 👋 I‘m Shurun Wang.
 
-I'm a Ph.D. candidate in School of Electrical Engineering and Automation at Hefei University of Technology, and I'm now a visiting student in Faculty of Health Data Science at Juntendo University. Welcome to my GitHub page! You can also visit my [homepage](https://shurun-wang.github.io/).
+I'm a Ph.D. candidate in School of Electrical Engineering and Automation at Hefei University of Technology, and I'm now a visiting student in Faculty of Health Data Science at Juntendo University. Welcome to my GitHub page! You can also visit my academic [homepage](https://shurun-wang.github.io/).
 
 There are two reasons why we open-source our codes: One is that we have benefited from the open-source codes of those great contributors, so we hope our codes can help more people. The other reason is to allow more people to understand our valuable work more clearly through the codes.
 
