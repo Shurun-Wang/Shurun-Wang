@@ -32,7 +32,7 @@ If these codes are useful to you, please cite our work and share it with more pe
 
 ## Contact Me
 
-- Email: wangsr@mail.hfut.edu.cn; s.wang.rp@juntendo.ac.jp
+- Email: wangsr@mail.hfut.edu.cn
 
 Feel free to explore my repositories and get in touch if you have any questions or collaborations!
 
