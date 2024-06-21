@@ -1,6 +1,6 @@
 ### Hi there 👋 I‘m Shurun Wang.
 
-I'm a Ph.D. candidate in School of Electrical Engineering and Automation at Hefei University of Technology, and I'm now a visiting student in Faculty of Health Data Science at Juntendo University. Welcome to my GitHub page! You can also visit my academic [homepage](https://shurun-wang.github.io/).
+Welcome to my GitHub page! You can also visit my academic [homepage](https://shurun-wang.github.io/).
 
 There are two reasons why we open-source our codes: One is that we have benefited from the open-source codes of those great contributors, so we hope our codes can help more people. The other reason is to allow more people to understand our valuable work more clearly through the codes.
 
@@ -13,8 +13,8 @@ If these codes are useful to you, please cite our work and share it with more pe
   
 ## Education
 
-- Ph.D. in School of Electrical Engineering and Automation, Hefei University of Technology, 2019.09-Present
-- Ph.D. in Graduate School of Medicine, Juntendo University, 2023.04-Present (Visiting Student)
+- Ph.D. in School of Electrical Engineering and Automation, Hefei University of Technology, 2019.09-2024.06
+- Ph.D. in Graduate School of Medicine, Juntendo University, 2023.04-2024.04 (Visiting Student)
 - M.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, 2016.09-2019.06
 - B.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, 2012.06-2016.06
 
