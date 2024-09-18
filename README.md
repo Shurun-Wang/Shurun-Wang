@@ -10,6 +10,9 @@ If these codes are useful to you, please cite our work and share it with more pe
 
 - Applications: Physiological signal analysis; Human-exoskeleton interaction; Brain function connectivity analysis
 - Algorithms: Deep learning menthods; Reinforcement learning methods; Control theory methods
+
+## Work Experiences
+- Postdoctoral researcher in School of Information Science and Technology, University of Science and Technology of China, 2024.09-Now
   
 ## Education
 
@@ -19,6 +22,7 @@ If these codes are useful to you, please cite our work and share it with more pe
 - B.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, 2012.06-2016.06
 
 ## Publications
+1. **S. Wang**, H. Tang, R. Himeno, et al, "Optimizing graph neural network architectures for schizophrenia spectrum disorder prediction using evolutionary algorithms, " Computer Methods and Programs in Biomedicine, 2024, 149: 102777. [Paper](https://www.sciencedirect.com/science/article/pii/S0169260724004127) / [Code](https://github.com/Shurun-Wang/EA-GNAS)
 1. **S. Wang**, H. Tang*, F. Chen, et al, "Integrated Block-Wise Neural Network with Auto-Learning Search Framework for Finger Gesture Recognition using sEMG Signals, " Artificial Intelligence in Medicine, 2024, 149: 102777. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0933365724000198) / [Code](https://github.com/Shurun-Wang/ALSF)
 2. **S. Wang**, H. Tang*, B. Wang, et al, "A Novel Approach to Detecting Muscle Fatigue Based on sEMG by Using Neural Architecture Search Framework, " IEEE Transactions on Neural Networks ＆ Learning Systems, 2023, 34(8): 4932-4943. [Paper](https://ieeexplore.ieee.org/document/9609089) / [Code](https://github.com/Shurun-Wang/NAS)
 3. **S. Wang**, H. Tang*, L. Gao, et al, "Continuous estimation of human joint angles from sEMG using a multi-feature temporal convolutional attention-based network, " IEEE Journal of Biomedical and Health Informatics, 2022, 26(11): 5461-5472. [Paper](https://ieeexplore.ieee.org/document/9857571) / [Code](https://github.com/Shurun-Wang/MFTCAN-KNR)
@@ -32,7 +36,7 @@ If these codes are useful to you, please cite our work and share it with more pe
 
 ## Contact Me
 
-- Email: wangsr@mail.hfut.edu.cn
+- Email: srwang@ustc.edu.cn; wangsr@mail.hfut.edu.cn
 
 Feel free to explore my repositories and get in touch if you have any questions or collaborations!
 
