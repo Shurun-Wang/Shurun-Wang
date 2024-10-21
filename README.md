@@ -8,7 +8,7 @@ If these codes are useful to you, please cite our work and share it with more pe
 
 ## Research Interests
 
-- Applications: Physiological signal analysis; Human-exoskeleton interaction; Brain function connectivity analysis
+- Applications: Biomedical signal analysis; Human-exoskeleton interaction; Brain function connectivity analysis
 - Algorithms: Deep learning menthods; Reinforcement learning methods; Control theory methods
 
 ## Work Experiences
