@@ -23,13 +23,15 @@ If these codes are useful to you, please cite our work and share it with more pe
 
 ## Publications
 
-1. **S. Wang**, H. Tang, Z. Ping, et al, "Improved data-driven model-free adaptive control method for an upper extremity power-assist exoskeleton, " Applied Intelligence, 2025, 55(6): 1-18. [Paper](https://link.springer.com/article/10.1007/s10489-025-06415-3) / [Code](https://github.com/Shurun-Wang/ISO-IMFAC)
-2. **S. Wang**, H. Tang, R. Himeno, et al, "Optimizing graph neural network architectures for schizophrenia spectrum disorder prediction using evolutionary algorithms, " Computer Methods and Programs in Biomedicine, 2024, 257: 108419. [Paper](https://www.sciencedirect.com/science/article/pii/S0169260724004127) / [Code](https://github.com/Shurun-Wang/EA-GNAS)
-3. **S. Wang**, H. Tang*, F. Chen, et al, "Integrated Block-Wise Neural Network with Auto-Learning Search Framework for Finger Gesture Recognition using sEMG Signals, " Artificial Intelligence in Medicine, 2024, 149: 102777. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0933365724000198) / [Code](https://github.com/Shurun-Wang/ALSF)
-4. **S. Wang**, H. Tang*, B. Wang, et al, "A Novel Approach to Detecting Muscle Fatigue Based on sEMG by Using Neural Architecture Search Framework, " IEEE Transactions on Neural Networks ＆ Learning Systems, 2023, 34(8): 4932-4943. [Paper](https://ieeexplore.ieee.org/document/9609089) / [Code](https://github.com/Shurun-Wang/NAS)
-5. **S. Wang**, H. Tang*, L. Gao, et al, "Continuous estimation of human joint angles from sEMG using a multi-feature temporal convolutional attention-based network, " IEEE Journal of Biomedical and Health Informatics, 2022, 26(11): 5461-5472. [Paper](https://ieeexplore.ieee.org/document/9857571) / [Code](https://github.com/Shurun-Wang/MFTCAN-KNR)
-6. H. Tang*, **S. Wang**, Q. Tan, et al, "A Double Threshold Adaptive Method for Robust Detection of Muscle Activation Intervals from Surface Electromyographic Signals, " IEEE Transactions on Instrumentation and Measurement, 2022, 71:1-12. [Paper](https://ieeexplore.ieee.org/document/9762275) / [Code](https://github.com/Shurun-Wang/sEMGDetection)
-7. **S. Wang**, H. Tang*, B. Wang, et al, "Analysis of Fatigue in the Biceps Brachii by Using Rapid Refined Composite Multiscale Sample Entropy, " Biomedical Signal Processing and Control, 67(4):102510, 2021. [Paper](https://www.sciencedirect.com/science/article/pii/S1746809421001075) / [Code](https://github.com/Shurun-Wang/R2CMSE)
+1. **S. Wang**, H. Tang*, R. Himeno, et al, "A robust denoising diffusion framework for completing missing regions of multiple biomedical signals, " Biomedical Signal Processing and Control, 113:108788, 2026. [Paper](https://www.sciencedirect.com/science/article/pii/S1746809425012996) / [Code](https://github.com/Shurun-Wang/DBSCF)
+2. **S. Wang**, H. Tang*, R. Himeno, et al, "ECGDenoiser: A magnitude-aware deep learning framework with phase retrieval for electrocardiogram signal enhancement, " Circuits, Systems, and Signal Processing, 2025, 44(10): 7526-7548. [Paper](https://link.springer.com/article/10.1007/s00034-025-03142-5) / [Code](https://github.com/Shurun-Wang/ECGDenoiser)
+3. **S. Wang**, H. Tang*, Z. Ping, et al, "Improved data-driven model-free adaptive control method for an upper extremity power-assist exoskeleton, " Applied Intelligence, 2025, 55(6): 1-18. [Paper](https://link.springer.com/article/10.1007/s10489-025-06415-3) / [Code](https://github.com/Shurun-Wang/ISO-IMFAC)
+4. **S. Wang**, H. Tang, R. Himeno, et al, "Optimizing graph neural network architectures for schizophrenia spectrum disorder prediction using evolutionary algorithms, " Computer Methods and Programs in Biomedicine, 2024, 257: 108419. [Paper](https://www.sciencedirect.com/science/article/pii/S0169260724004127) / [Code](https://github.com/Shurun-Wang/EA-GNAS)
+5. **S. Wang**, H. Tang*, F. Chen, et al, "Integrated Block-Wise Neural Network with Auto-Learning Search Framework for Finger Gesture Recognition using sEMG Signals, " Artificial Intelligence in Medicine, 2024, 149: 102777. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0933365724000198) / [Code](https://github.com/Shurun-Wang/ALSF)
+6. **S. Wang**, H. Tang*, B. Wang, et al, "A Novel Approach to Detecting Muscle Fatigue Based on sEMG by Using Neural Architecture Search Framework, " IEEE Transactions on Neural Networks ＆ Learning Systems, 2023, 34(8): 4932-4943. [Paper](https://ieeexplore.ieee.org/document/9609089) / [Code](https://github.com/Shurun-Wang/NAS)
+7. **S. Wang**, H. Tang*, L. Gao, et al, "Continuous estimation of human joint angles from sEMG using a multi-feature temporal convolutional attention-based network, " IEEE Journal of Biomedical and Health Informatics, 2022, 26(11): 5461-5472. [Paper](https://ieeexplore.ieee.org/document/9857571) / [Code](https://github.com/Shurun-Wang/MFTCAN-KNR)
+8. H. Tang*, **S. Wang**, Q. Tan, et al, "A Double Threshold Adaptive Method for Robust Detection of Muscle Activation Intervals from Surface Electromyographic Signals, " IEEE Transactions on Instrumentation and Measurement, 2022, 71:1-12. [Paper](https://ieeexplore.ieee.org/document/9762275) / [Code](https://github.com/Shurun-Wang/sEMGDetection)
+9. **S. Wang**, H. Tang*, B. Wang, et al, "Analysis of Fatigue in the Biceps Brachii by Using Rapid Refined Composite Multiscale Sample Entropy, " Biomedical Signal Processing and Control, 67(4):102510, 2021. [Paper](https://www.sciencedirect.com/science/article/pii/S1746809421001075) / [Code](https://github.com/Shurun-Wang/R2CMSE)
 
 ## Skills
 
@@ -38,7 +40,7 @@ If these codes are useful to you, please cite our work and share it with more pe
 
 ## Contact Me
 
-- Email: srwang@ustc.edu.cn; wangsr@mail.hfut.edu.cn
+- Email: srwang@ustc.edu.cn
 
 Feel free to explore my repositories and get in touch if you have any questions or collaborations!
 
