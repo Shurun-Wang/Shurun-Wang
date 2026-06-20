@@ -8,8 +8,8 @@ If these codes are useful to you, please cite our work and share it with more pe
 
 ## Research Interests
 
-- Applications: Biomedical signal analysis; Human-exoskeleton interaction; Brain function connectivity analysis
-- Algorithms: Deep learning menthods; Reinforcement learning methods; Control theory methods
+- Applications: Biomedical signal analysis; Myoelectric control; Brain-computer interface (BCI)
+- Algorithms: Deep learning methods; Reinforcement learning methods; Control theory methods
 
 ## Work Experiences
 - Postdoctoral researcher in School of Information Science and Technology, University of Science and Technology of China, 2024.09-Now
@@ -33,14 +33,7 @@ If these codes are useful to you, please cite our work and share it with more pe
 8. H. Tang*, **S. Wang**, Q. Tan, et al. A Double Threshold Adaptive Method for Robust Detection of Muscle Activation Intervals from Surface Electromyographic Signals. IEEE Transactions on Instrumentation and Measurement, 2022, 71:1-12. [Paper](https://ieeexplore.ieee.org/document/9762275) / [Code](https://github.com/Shurun-Wang/sEMGDetection)
 9. **S. Wang**, H. Tang*, B. Wang, et al. Analysis of Fatigue in the Biceps Brachii by Using Rapid Refined Composite Multiscale Sample Entropy. Biomedical Signal Processing and Control, 67(4):102510, 2021. [Paper](https://www.sciencedirect.com/science/article/pii/S1746809421001075) / [Code](https://github.com/Shurun-Wang/R2CMSE)
 
-## Skills
 
-- Programming languages: Python/Matlab/C
-- Engineering: PLC
-
-## Contact Me
-
-- Email: srwang@ustc.edu.cn
 
 Feel free to explore my repositories and get in touch if you have any questions or collaborations!
 
